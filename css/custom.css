@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+@import 'tooltip.css';
+@import 'menu.css';
+
+div#toggle_header{
+	cursor:pointer;
+	font-size:13px;
+	font-weight:bold;
+	background:url(../pix/y/tm.png) no-repeat;
+	background-position:5px 8px;
+	padding:5px 20px;
+	border-top:#CCC thin dashed;
+}
+
+	h3.sectionname{
+		padding:5px !important;
+		line-height:10px;
+	}
+	.moodle-actionmenu{
+		background:url('../pix/h/headerMenu.png') repeat-x !important ;
+		color:#000;
+	}
+	.userbutton{
+		color:#FFF;
+	}
+	.userbutton:hover{
+		color:#CFF;
+	}
+	.userbutton:active{
+		color:#000;
+	}
+	.brandLogo{
+		color:#fff;
+		font-family: Verdana, Geneva, sans-serif;
+		font-size: 16px;
+		font-style: normal;
+		font-variant: small-caps;
+		line-height: 16.5px;
+	}
+	.brandLogo:hover{
+		color:#bdd3ff;
+	}
+	.breadcrumb li:first-child{
+		padding-left: 25px;
+		background:url('../pix/h/home.png');
+		background-size: 15px 12px;
+		background-repeat: no-repeat;
+		background-position: 0;
+		color:#5c60ff;
+		font-weight:bold;
+	}
+	#headerTop.container-fluid{
+		background:url('pix/h/header.png'), url('../pix/h/header.png'), url('../../pix/h/header.png'), url('../../../pix/h/header.png');
+	}
+	.modal.modal-wide .modal-dialog {
+	  width: 90%;
+	}
+	.modal-wide .modal-body {
+	  overflow-y: auto;
+	}
+	.popup-modal-dismiss{
+		background:url(<?php echo $CFG->wwwroot;?>/adaptive/image/close.png) left no-repeat;
+		float:right; 
+		margin: 0 0 80px 0;
+		padding-left:30px;
+	}
+	
+	#tallModal .modal-body p { margin-bottom: 900px }
+
+span#datatype{
+	color:#F0F;
+}
+span#condition{
+	color:#06F;
+}
+span#comment{
+	color:#090;
+}
+span#red{
+	color:#F00;
+}
+
+	div.code, #code
+	{
+	  font-family: "Courier New", monospace;
+	  white-space:pre-wrap;
+	  margin-bottom:-20px;
+	}
+	
