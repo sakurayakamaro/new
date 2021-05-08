@@ -1,0 +1,20 @@
+[4/05/2021 2:44:29 PM] [info] instantiating backup controller c97b25682675d0180ed7c02f5a4a1dda
+[4/05/2021 2:44:29 PM] [debug] setting controller status to 100
+[4/05/2021 2:44:29 PM] [debug] loading controller plan
+[4/05/2021 2:44:29 PM] [debug] setting controller status to 300
+[4/05/2021 2:44:29 PM] [debug] applying plan defaults
+[4/05/2021 2:44:29 PM] [debug] setting controller status to 400
+[4/05/2021 2:44:29 PM] [debug] setting file inclusion to 1
+[4/05/2021 2:44:29 PM] [info] checking plan security
+[4/05/2021 2:44:29 PM] [debug] setting controller status to 700
+[4/05/2021 2:44:29 PM] [debug] saving controller to db
+[4/05/2021 2:44:29 PM] [debug] calculating controller checksum a321a51dc5bd431a6c47a7e81c4166a9
+[4/05/2021 2:44:29 PM] [debug] loading controller from db
+[4/05/2021 2:44:29 PM] [debug] setting controller status to 700
+[4/05/2021 2:44:29 PM] [debug] saving controller to db
+[4/05/2021 2:44:29 PM] [debug] calculating controller checksum 71471c213689061b3b461104e3d96519
+[4/05/2021 2:44:29 PM] [debug] loading controller from db
+[4/05/2021 2:44:29 PM] [debug] notifying plan about excluded activities by type
+[4/05/2021 2:44:29 PM] [debug] setting controller status to 800
+[4/05/2021 2:44:30 PM] [debug] setting controller status to 1000
+[4/05/2021 2:44:30 PM] [debug] saving controller to db

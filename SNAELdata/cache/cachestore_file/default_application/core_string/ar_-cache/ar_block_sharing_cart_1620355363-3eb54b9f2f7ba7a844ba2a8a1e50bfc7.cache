@@ -1,0 +1,23 @@
+a:26:{s:10:"pluginname";s:12:"Sharing Cart";s:12:"sharing_cart";s:12:"Sharing Cart";s:17:"sharing_cart_help";s:943:"<h2 class="helpheading">Operation</h2>
+<dl style="margin-left:0.5em;">
+<dt>Copying from course to Sharing Cart</dt>
+    <dd>You will notice a small "Copy to Sharing Cart" icon which appears after each
+        resource or activity in a course.
+        Click on that icon to send a copy of that resource/activity into Sharing Cart.
+        Only the activity itself, without user data, will be cloned.</dd>
+<dt>Copying from Sharing Cart to course</dt>
+    <dd>Click a "Copy to course" icon in Sharing Cart and select one of target markers on each section.
+        Or click "Cancel" icon which is above those.</dd>
+<dt>Making folders inside Sharing Cart</dt>
+    <dd>Click a "Move into folder" icon in a Sharing Cart item.
+        An input box for new folder name will appear if there's no folder.
+        Or you can select an existing folder in drop-down list.
+        Which will be replaced with an input box if you click "Edit" icon.</dd>
+</dl>";s:24:"sharing_cart:addinstance";s:28:"Add a new Sharing Cart block";s:6:"backup";s:20:"Copy to Sharing Cart";s:7:"restore";s:14:"Copy to course";s:7:"movedir";s:16:"Move into folder";s:8:"copyhere";s:9:"Copy here";s:8:"notarget";s:16:"Target not found";s:9:"clipboard";s:24:"Copying this shared item";s:10:"bulkdelete";s:11:"Bulk delete";s:14:"confirm_backup";s:52:"Do you want to copy this activity into Sharing Cart?";s:16:"confirm_userdata";s:60:"Do you want to include user data in a copy of this activity?";s:15:"confirm_restore";s:40:"Do you want to copy this item to course?";s:14:"confirm_delete";s:32:"Are you sure you want to delete?";s:23:"confirm_delete_selected";s:51:"Are you sure you want to delete all selected items?";s:35:"settings:userdata_copyable_modtypes";s:31:"User data copyable module types";s:40:"settings:userdata_copyable_modtypes_desc";s:394:"While copying an activity into the Sharing Cart,
+a dialog shows an option whether a copy of an activity includes its user data or not,
+if its module type is checked in the above and an operator has <strong>moodle/backup:userinfo</strong>,
+<strong>moodle/backup:anonymise</strong> and <strong>moodle/restore:userinfo</strong> capabilities.
+(By default, only manager role has those capabilities.)";s:26:"settings:workaround_qtypes";s:29:"Workaround for question types";s:31:"settings:workaround_qtypes_desc";s:377:"The workaround for question restore issue will be performed if its question type is checked.
+When the questions to be restored already exist, however, those data look like inconsistent,
+this workaround will try to make another duplicates instead of reusing existing data.
+It may be useful for avoiding some restore errors, such as <i>error_question_match_sub_missing_in_db</i>.";s:16:"invalidoperation";s:29:"An invalid operation detected";s:15:"unexpectederror";s:28:"An unexpected error occurred";s:14:"recordnotfound";s:21:"Shared item not found";s:9:"forbidden";s:57:"You don't have any permissions to access this shared item";s:9:"requirejs";s:56:"Sharing Cart requires JavaScript enabled in your browser";s:11:"requireajax";s:26:"Sharing Cart requires AJAX";}

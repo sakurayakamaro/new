@@ -1,0 +1,6 @@
+a:15:{s:6:"apikey";s:47:"مفتاح واجهة برمجة التطبيق";s:11:"callbackurl";s:34:"رابط إرجاع الاتصال";s:15:"callbackurltext";s:290:"<ol>
+<li>Visit <a href="http://www.flickr.com/services/api/keys/">مفاتيح واجهة برمجة التطبيق لـ Flickr</a> again.</li>
+<li>تأكد من وضعك لرابط إرجاع الاتصال لمفتاح Flickr هذا بالشكل الآتي <strong>{$a}</strong></li></ol>";s:15:"callbackwarning";s:637:"<ol>
+<li>إحصل على Get a <a href="http://www.flickr.com/services/api/keys/">مفتاح برمجة واجهة التطبيق والسر لـ Flickr</a> من Flickr لموقع مودل هذا.</li>
+<li>أدخل هذه التفاصيل هنا، ثم أنقر للحفظ والذهاب إلى الإعدادات للعودة إلى هذه الصفحة. ستجد بأن مودل قام بتوليد رابط إرجاع الاتصال لك.</li>
+<li>قم بتحرير <a href="http://www.flickr.com/services/api/keys/">Flickr</a> تفاصيل المفتاح مرة أخرى لتضع فيها رابط إرجاع الاتصال.</li></ol>";s:12:"configplugin";s:17:"تهيئة Flickr";s:12:"emailaddress";s:44:"عنوان البريد الالكتروني";s:11:"flickr:view";s:32:"معاينة مستودع Flickr";s:12:"invalidemail";s:42:"عنوان بريدي خاطئ لـ flickr";s:7:"notitle";s:17:"بلا عنوان";s:13:"nullphotolist";s:45:"لا توجد صور في هذا الحساب";s:8:"remember";s:12:"تذكرني";s:15:"pluginname_help";s:32:"المستودع في flickr.com";s:10:"pluginname";s:6:"Flickr";s:6:"secret";s:8:"السر";s:8:"username";s:51:"البريد الالكتروني لحساب Flickr";}

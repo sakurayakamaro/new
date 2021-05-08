@@ -1,0 +1,36 @@
+[24/09/1442 07:03:24 ص] [info] instantiating backup controller aef7c9dcdd5dec80ee82391c42603716
+[24/09/1442 07:03:24 ص] [debug] setting controller status to 100
+[24/09/1442 07:03:24 ص] [debug] loading controller plan
+[24/09/1442 07:03:25 ص] [debug] setting controller status to 300
+[24/09/1442 07:03:25 ص] [debug] applying plan defaults
+[24/09/1442 07:03:25 ص] [debug] setting controller status to 400
+[24/09/1442 07:03:25 ص] [debug] setting file inclusion to 1
+[24/09/1442 07:03:25 ص] [info] checking plan security
+[24/09/1442 07:03:25 ص] [debug] setting controller status to 500
+[24/09/1442 07:03:25 ص] [info] checking plan security
+[24/09/1442 07:03:26 ص] [info] checking plan security
+[24/09/1442 07:03:26 ص] [info] checking plan security
+[24/09/1442 07:03:26 ص] [debug] saving controller to db
+[24/09/1442 07:03:26 ص] [debug] calculating controller checksum d95a0178e5cbfecb7a8e0c7992251c3e
+[24/09/1442 07:03:49 ص] [debug] loading controller from db
+[24/09/1442 07:03:49 ص] [info] checking plan security
+[24/09/1442 07:03:49 ص] [info] checking plan security
+[24/09/1442 07:03:49 ص] [info] checking plan security
+[24/09/1442 07:03:49 ص] [debug] saving controller to db
+[24/09/1442 07:03:49 ص] [debug] calculating controller checksum 1ab4f3c58c3d7182fdbdfe8aa466c27d
+[24/09/1442 07:03:59 ص] [debug] loading controller from db
+[24/09/1442 07:03:59 ص] [info] checking plan security
+[24/09/1442 07:03:59 ص] [info] checking plan security
+[24/09/1442 07:03:59 ص] [info] checking plan security
+[24/09/1442 07:03:59 ص] [debug] saving controller to db
+[24/09/1442 07:03:59 ص] [debug] calculating controller checksum 1ab4f3c58c3d7182fdbdfe8aa466c27d
+[24/09/1442 07:04:12 ص] [debug] loading controller from db
+[24/09/1442 07:04:12 ص] [info] checking plan security
+[24/09/1442 07:04:13 ص] [info] checking plan security
+[24/09/1442 07:04:13 ص] [debug] setting controller status to 700
+[24/09/1442 07:04:13 ص] [debug] saving controller to db
+[24/09/1442 07:04:13 ص] [debug] calculating controller checksum 45eeb2439981e7a3f9d6663d06a04bdf
+[24/09/1442 07:04:13 ص] [debug] loading controller from db
+[24/09/1442 07:04:13 ص] [debug] setting controller status to 800
+[24/09/1442 07:04:18 ص] [debug] setting controller status to 1000
+[24/09/1442 07:04:18 ص] [debug] saving controller to db

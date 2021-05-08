@@ -1,0 +1,12 @@
+a:4:{s:10:"pluginname";s:6:"Simple";s:16:"region-side-post";s:5:"Right";s:15:"region-side-pre";s:4:"Left";s:12:"choosereadme";s:620:"<div class="clearfix">
+	<h2>Simple</h2>
+        <p>Simple template to extend the bootstrapbase theme</p>
+    <h2>Key features</h2>
+    <ul>
+    <li>Simple design</li>
+    <li>Easy to change the template color (possible to use different colors for different departments)</li>
+    <li>The front-page design uses blocks in the content area and displaying them as boxes</li>
+    <li>Multi device optimized: "Simple" follows the best practice of using responsive web design, namely serving the same HTML for devices and using only CSS media queries to decide the rendering on each device</li>
+    </ul>    
+</div>
+";}

@@ -1,0 +1,16 @@
+[24/09/1442 09:34:49 م] [info] instantiating backup controller 4575607bebaf8d45c9066088d4fa697d
+[24/09/1442 09:34:49 م] [debug] setting controller status to 100
+[24/09/1442 09:34:49 م] [debug] loading controller plan
+[24/09/1442 09:34:49 م] [debug] setting controller status to 300
+[24/09/1442 09:34:49 م] [debug] applying plan defaults
+[24/09/1442 09:34:49 م] [debug] setting controller status to 400
+[24/09/1442 09:34:49 م] [debug] setting file inclusion to 0
+[24/09/1442 09:34:49 م] [info] checking plan security
+[24/09/1442 09:34:49 م] [debug] setting controller status to 700
+[24/09/1442 09:34:49 م] [debug] saving controller to db
+[24/09/1442 09:34:49 م] [debug] calculating controller checksum f5ce37da49dfd5c3ffab1410e94daf1c
+[24/09/1442 09:34:49 م] [debug] loading controller from db
+[24/09/1442 09:34:49 م] [debug] notifying plan about excluded activities by type
+[24/09/1442 09:34:49 م] [debug] setting controller status to 800
+[24/09/1442 09:34:50 م] [debug] setting controller status to 1000
+[24/09/1442 09:34:50 م] [debug] saving controller to db

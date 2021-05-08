@@ -1,0 +1,9 @@
+deny from all
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.utmsmartlearn.com [NC]
+RewriteRule ^(.*)$ http://utmsmartlearn.com/$1 [L,R=301]
+AllowOverride None
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+AddType image/x-icon .ico
+Note: this file is broken intentionally, we do not want anybody to undo it in subdirectory!

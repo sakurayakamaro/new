@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FEEDBACK VERSION="200701" COMMENT="XML-Importfile for mod/feedback">
+     <ITEMS>
+          <ITEM TYPE="label" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[71]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[label]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[<p style="padding:5px;background-color:#C3C3E5;">ACCESS</p>]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[72]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I found easy to login into the platform.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[access1]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[73]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The download time of the pages is too long.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[access2]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[74]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The system response quickly to my input.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[access3]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[75]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I found the overall access to this platform is convenient.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[access4]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="label" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[76]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[label]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[<p style="padding:5px;background-color:#C3C3E5;">NAVIGATION</p>]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[77]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The listed learning materials help me a lot in getting around the site.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[navigation1]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[78]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The depth of the hierarchy of the list is ideal.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[navigation2]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[79]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I was always confused about â€˜where I wasâ€™.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[navigation3]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[80]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I have difficulty locating the information required.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[navigation4]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="label" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[81]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[label]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[<p style="padding:5px;background-color:#C3C3E5;">ADAPTIVE</p>]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[82]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[This e-learning helps me achieved my learning objectives.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[adaptive1]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[83]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Adaptive features increase my study workload.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[adaptive2]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[84]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I found the current learning approach fit with my learning style.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[adaptive3]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[85]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The learning style questionnaire (ILS Questionnaire) help me to determine my learning style.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[adaptive4]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[86]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The presentation of the entire content into different media presentations (visual, verbal) helped in my understanding.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[adaptive5]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="label" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[87]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[label]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[<p style="padding:5px;background-color:#C3C3E5;">LEARNING MATERIALS (Suitable, Knowledge, Motivation)</p>]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[88]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The material immediately attracts my attention when presented.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial1]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[89]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[This platform provide me a wide variety of learning materials.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial2]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[90]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[The presentation of the media in text pages with rich formatting, figures, illustrations, diagrams, flowcharts, highlighted source code suitable to my learning and support my understanding.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial3]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[91]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[These materials have various examples to demonstrate concept / formula.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial4]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[92]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I have difficulty with materials provided in this e-learning.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial5]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[93]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Materials presented suitable with my knowledge.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial6]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[94]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Materials has elements / activities that can measure my knowledge.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial7]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[95]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Materials increase my understanding of the topic.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial8]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[96]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[This material increases my knowledge in this topic.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial9]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[97]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[This material motivates me to continue learning.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial10]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[98]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[This materials is enough to meet my learning needs.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial11]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[99]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I feel confident in my study after using materials provided.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial12]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[100]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[This material intrigues me to continue and focus on in this course.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[learningmaterial13]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="label" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[101]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[label]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[<p style="padding:5px;background-color:#C3C3E5;">SATISFACTION</p>]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[102]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I found the application is easy to use.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[satisfaction1]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[103]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[Learning through preferred learning style is useful.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[satisfaction2]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[104]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[I enjoyed learning through this application.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[satisfaction3]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+          <ITEM TYPE="multichoicerated" REQUIRED="0">
+               <ITEMID>
+                    <![CDATA[105]]>
+               </ITEMID>
+               <ITEMTEXT>
+                    <![CDATA[If I found another chance, I will continue studying through this application.]]>
+               </ITEMTEXT>
+               <ITEMLABEL>
+                    <![CDATA[satisfaction4]]>
+               </ITEMLABEL>
+               <PRESENTATION>
+                    <![CDATA[d>>>>>5####Strongly Agree|4####Agree|3####Neither Agree nor Disagree|2####Disagree|1####Strongly Disagree]]>
+               </PRESENTATION>
+               <OPTIONS>
+                    <![CDATA[ih]]>
+               </OPTIONS>
+               <DEPENDITEM>
+                    <![CDATA[0]]>
+               </DEPENDITEM>
+               <DEPENDVALUE>
+                    <![CDATA[]]>
+               </DEPENDVALUE>
+          </ITEM>
+     </ITEMS>
+</FEEDBACK>

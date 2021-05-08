@@ -1,0 +1,1 @@
+a:7:{s:10:"access_key";s:23:"مفتاح الوصول";s:12:"configplugin";s:24:"إعدادات Amazon S3";s:8:"endpoint";s:29:"نقطة نهاية Amazon S3";s:13:"needaccesskey";s:49:"لا بد من إعطاء مفتاح الوصول";s:10:"pluginname";s:9:"Amazon S3";s:10:"secret_key";s:19:"مفتاح السر";s:7:"s3:view";s:35:"معاينة مستودع Amazon S3";}

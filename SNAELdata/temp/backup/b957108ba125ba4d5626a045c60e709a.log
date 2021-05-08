@@ -1,0 +1,36 @@
+[1/05/2021 7:16:45 AM] [info] instantiating backup controller b957108ba125ba4d5626a045c60e709a
+[1/05/2021 7:16:45 AM] [debug] setting controller status to 100
+[1/05/2021 7:16:45 AM] [debug] loading controller plan
+[1/05/2021 7:16:45 AM] [debug] setting controller status to 300
+[1/05/2021 7:16:45 AM] [debug] applying plan defaults
+[1/05/2021 7:16:45 AM] [debug] setting controller status to 400
+[1/05/2021 7:16:45 AM] [debug] setting file inclusion to 1
+[1/05/2021 7:16:45 AM] [info] checking plan security
+[1/05/2021 7:16:45 AM] [debug] setting controller status to 500
+[1/05/2021 7:16:45 AM] [info] checking plan security
+[1/05/2021 7:16:45 AM] [info] checking plan security
+[1/05/2021 7:16:45 AM] [info] checking plan security
+[1/05/2021 7:16:45 AM] [debug] saving controller to db
+[1/05/2021 7:16:45 AM] [debug] calculating controller checksum 50620905d399ee466e7b3f6231ff0d70
+[1/05/2021 7:17:04 AM] [debug] loading controller from db
+[1/05/2021 7:17:04 AM] [info] checking plan security
+[1/05/2021 7:17:04 AM] [info] checking plan security
+[1/05/2021 7:17:04 AM] [info] checking plan security
+[1/05/2021 7:17:04 AM] [debug] saving controller to db
+[1/05/2021 7:17:04 AM] [debug] calculating controller checksum 50620905d399ee466e7b3f6231ff0d70
+[1/05/2021 7:17:12 AM] [debug] loading controller from db
+[1/05/2021 7:17:12 AM] [info] checking plan security
+[1/05/2021 7:17:12 AM] [info] checking plan security
+[1/05/2021 7:17:12 AM] [info] checking plan security
+[1/05/2021 7:17:12 AM] [debug] saving controller to db
+[1/05/2021 7:17:12 AM] [debug] calculating controller checksum 50620905d399ee466e7b3f6231ff0d70
+[1/05/2021 7:17:22 AM] [debug] loading controller from db
+[1/05/2021 7:17:22 AM] [info] checking plan security
+[1/05/2021 7:17:22 AM] [info] checking plan security
+[1/05/2021 7:17:22 AM] [debug] setting controller status to 700
+[1/05/2021 7:17:22 AM] [debug] saving controller to db
+[1/05/2021 7:17:22 AM] [debug] calculating controller checksum ec16ee5d653e6bab81ab18b08ad36f21
+[1/05/2021 7:17:22 AM] [debug] loading controller from db
+[1/05/2021 7:17:22 AM] [debug] setting controller status to 800
+[1/05/2021 7:17:28 AM] [debug] setting controller status to 1000
+[1/05/2021 7:17:28 AM] [debug] saving controller to db

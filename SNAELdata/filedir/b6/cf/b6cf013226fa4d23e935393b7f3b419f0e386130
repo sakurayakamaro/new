@@ -1,0 +1,107 @@
+// question: 0  name: Switch category to $course$/Default for SCSJ2013-01/Sorting/Advance Sort
+$CATEGORY: $course$/Default for SCSJ2013-01/Sorting/Advance Sort
+
+
+// question: 12  name: Advance Sort 5
+::Advance Sort 5::[html]<p>Which of the following is <strong>CORRECT</strong> about the merge sort?</p>{
+	=<p>The Big O for worst and best case is the same.</p>
+	~<p>The use of second array in the algorithm help improves the performance of merge sort.</p>
+	~<p>The initial order of the array is very important for the performance of merge sort. </p>
+	~<p>In merge sort, the array is divided into 2 partitions and all the smaller values is swap from right to left and all bigger values is swap from left to right.</p>
+}
+
+
+// question: 13  name: Advance Sort 6
+::Advance Sort 6::[html]<p>Which of the following is <strong>NOT TRUE </strong>regarding the Merge sort analysis?</p>{
+	~<p>The best case for Quick Sort will also be the best case for Merge Sort.</p>
+	=<p>Merge Sort, generally is faster than Quick Sort since this technique always partitioned the list into balance segment.</p>
+	~<p>Merge Sort efficiency does not depend on the arrangement of the data before sort. </p>
+	~<p>The average case, worst case and best case for Merge Sort are O(<em>n </em>* log<strong><sub>2</sub> </strong><em>n</em>).</p>
+}
+
+
+// question: 14  name: Advance Sort 7
+::Advance Sort 7::[html]<p>Which of the following is NOT TRUE regarding the Quick sort analysis? </p>{
+	~<p>The best case for Quick Sort happens when the list is partition into</p>\n<p>balance segment.</p>
+	~<p>The worst case for Quick Sort occurs when the smallest item or the largest</p>\n<p>item always be chosen as pivot.</p>
+	~<p>The average case is <em>O(n * log</em><strong><em><sub>2</sub> </em></strong><em>n</em><em>)</em>.</p>
+	=<p>The worst case is <em>O(n * log</em><strong><em><sub>2</sub> </em></strong><em>n</em><em>)</em>.</p>
+}
+
+
+// question: 0  name: Switch category to $course$/Default for SCSJ2013-01/Sorting/Simple Sort
+$CATEGORY: $course$/Default for SCSJ2013-01/Sorting/Simple Sort
+
+
+// question: 4  name: Simple Sort 4
+::Simple Sort 4::[html]<p>What does the function <strong>f()</strong> below do?</p>\n<div class\="code">\n<p><span style\="font-family\: 'courier new', courier, monospace;">boolean f(int a[], int array_size)\{</span><br /><span style\="font-family\: 'courier new', courier, monospace;">   for(int i \= 0; i &lt; <span>array_size</span>−1; ++i)\{ </span><br /><span style\="font-family\: 'courier new', courier, monospace;">      if(a[i +1] &lt; a[i])</span><br /><span style\="font-family\: 'courier new', courier, monospace;">          return false; </span><br /><span style\="font-family\: 'courier new', courier, monospace;">   \} </span><br /><span style\="font-family\: 'courier new', courier, monospace;">   return true; </span><br /><span style\="font-family\: 'courier new', courier, monospace;">\}</span></p>\n</div>{
+	~<p>  It returns <strong>false</strong> if the last element of the array is the maximum of all the elements.</p>
+	~<p>It returns <strong>true</strong> if the last element of the array is the minimum of all the elements.</p>
+	=<p>It returns <strong>true</strong> if the array is sorted in ascending order.</p>
+	~<p>It returns <strong>true</strong> if the array is sorted in descending order.</p>
+}
+
+
+// question: 5  name: Simple Sort 5
+::Simple Sort 5::[html]<p>Which sorting algorithm would produce the following intermediate integer values in an array while being sorted into ascending order?</p>\n<p> </p>\n<table style\="width\: 379px;" border\="0">\n<tbody>\n<tr>\n<td align\="right" width\="116">Original order\: </td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">6</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">9</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">2</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">3</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">1</td>\n</tr>\n<tr>\n<td colspan\="6"> </td>\n</tr>\n<tr>\n<td align\="right">After pass 1\: </td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">6</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">1</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">2</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">3</td>\n<td style\="border\: \#333 thin solid;" align\="center" width\="40">9</td>\n</tr>\n</tbody>\n</table>{
+	~<p>Insertion sort</p>
+	=<p>Selection sort</p>
+	~<p>Bubble sort</p>
+	~<p>Quick sort</p>
+}
+
+
+// question: 6  name: Simple Sort 6
+::Simple Sort 6::[html]<p>Here is a statements about an array, partway through sorting it\:</p>\n<p>“There is a part of the array in which all values are in the correct order, relative to one another.”</p>\n<p> </p>\n<p> Which of the following sort algorithm matches the statement described?</p>{
+	=<p>Insertion sort</p>
+	~<p>Bubble sort   </p>
+	~<p>Merge sort</p>
+	~<p>Quick sort</p>
+}
+
+
+// question: 7  name: Simple Sort 7
+::Simple Sort 7::[html]<p>Given an array of ten integers\: </p>\n<table style\="width\: 400px;" border\="1">\n<tbody>\n<tr>\n<td align\="center">5</td>\n<td align\="center">3</td>\n<td align\="center">8</td>\n<td align\="center">9</td>\n<td align\="center">1</td>\n<td align\="center">7</td>\n<td align\="center">0</td>\n<td align\="center">2</td>\n<td align\="center">6</td>\n<td align\="center">4</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>After the <strong>FIRST iteration</strong> of the outer loop in Selection Sort (sorting from smallest to largest), the array should contains\:</p>{
+	=<table style\="width\: 400px;" border\="1">\n<tbody>\n<tr>\n<td align\="center">5</td>\n<td align\="center">3</td>\n<td align\="center">8</td>\n<td align\="center">4</td>\n<td align\="center">1</td>\n<td align\="center">7</td>\n<td align\="center">0</td>\n<td align\="center">2</td>\n<td align\="center">6</td>\n<td align\="center">9</td>\n</tr>\n</tbody>\n</table>
+	~<table style\="width\: 400px;" border\="1">\n<tbody>\n<tr>\n<td align\="center">3</td>\n<td align\="center">5</td>\n<td align\="center">8</td>\n<td align\="center">9</td>\n<td align\="center">1</td>\n<td align\="center">7</td>\n<td align\="center">0</td>\n<td align\="center">2</td>\n<td align\="center">6</td>\n<td align\="center">4</td>\n</tr>\n</tbody>\n</table>
+	~<table style\="width\: 400px;" border\="1">\n<tbody>\n<tr>\n<td align\="center">5</td>\n<td align\="center">3</td>\n<td align\="center">6</td>\n<td align\="center">4</td>\n<td align\="center">1</td>\n<td align\="center">7</td>\n<td align\="center">0</td>\n<td align\="center">2</td>\n<td align\="center">8</td>\n<td align\="center">9</td>\n</tr>\n</tbody>\n</table>
+	~<table style\="width\: 400px;" border\="1">\n<tbody>\n<tr>\n<td align\="center">3</td>\n<td align\="center">5</td>\n<td align\="center">8</td>\n<td align\="center">9</td>\n<td align\="center">1</td>\n<td align\="center">7</td>\n<td align\="center">0</td>\n<td align\="center">2</td>\n<td align\="center">6</td>\n<td align\="center">4</td>\n</tr>\n</tbody>\n</table>
+}
+
+
+// question: 0  name: Switch category to $course$/Default for SCSJ2013-01/Sorting/Advance Sort
+$CATEGORY: $course$/Default for SCSJ2013-01/Sorting/Advance Sort
+
+
+// question: 8  name: Advance Sort 1
+::Advance Sort 1::[html]<p>One of the differences between Quick sort and Merge sort is Quick Sort partition the list based on the pivot value and Merge Sort partition the list by dividing the list into two balanced list.</p>{TRUE}
+
+
+// question: 9  name: Advance Sort 2
+::Advance Sort 2::[html]<p>Quicksort and Mergesort have the same time complexity for average case, which is <em>O(n * log<sub>2</sub> n)</em> but Quicksort requires more computation space for second array.</p>{FALSE}
+
+
+// question: 10  name: Advance Sort 3
+::Advance Sort 3::[html]<p>Figure below, represents an array named, <strong>Data</strong> with 8 elements.  </p>\n<table border\="0" cellspacing\="0" cellpadding\="0">\n<tbody>\n<tr>\n<td colspan\="8" width\="386">\n<p align\="center"><strong>DATA</strong></p>\n</td>\n</tr>\n<tr>\n<td align\="center" width\="40">[0]</td>\n<td align\="center" width\="40">[1]</td>\n<td align\="center" width\="40">[2]</td>\n<td align\="center" width\="40">[3]</td>\n<td align\="center" width\="40">[4]</td>\n<td align\="center" width\="40">[5]</td>\n<td align\="center" width\="40">[6]</td>\n<td align\="center" width\="40">[7]</td>\n</tr>\n<tr>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">2</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">6</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">10</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">14</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">18</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">22</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">28</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">32</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>If Quick Sort is used to sort the <strong>DATA</strong> array into ascending order, the complexity time for the algorithm is <strong>O(log<sub>2</sub> n)</strong>. </p>{FALSE}
+
+
+// question: 11  name: Advance Sort 4
+::Advance Sort 4::[html]<p>Figure below, represents an array named, <strong>Data</strong> with 8 elements.  </p>\n<table border\="0" cellspacing\="0" cellpadding\="0">\n<tbody>\n<tr>\n<td colspan\="8" width\="386">\n<p align\="center"><strong>DATA</strong></p>\n</td>\n</tr>\n<tr>\n<td align\="center" width\="40">[0]</td>\n<td align\="center" width\="40">[1]</td>\n<td align\="center" width\="40">[2]</td>\n<td align\="center" width\="40">[3]</td>\n<td align\="center" width\="40">[4]</td>\n<td align\="center" width\="40">[5]</td>\n<td align\="center" width\="40">[6]</td>\n<td align\="center" width\="40">[7]</td>\n</tr>\n<tr>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">2</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">6</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">10</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">14</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">18</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">22</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">28</td>\n<td style\="border\: \#000 thin solid;" align\="center" width\="40">32</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>If the <strong>DATA</strong> array is going to be sorted into descending order using divide and conquer technique, every partition in Merge Sort will always have a balanced list.</p>{TRUE}
+
+
+// question: 0  name: Switch category to $course$/Default for SCSJ2013-01/Sorting/Simple Sort
+$CATEGORY: $course$/Default for SCSJ2013-01/Sorting/Simple Sort
+
+
+// question: 1  name: Simple sort
+::Simple sort::[html]<p>The efficiency of a sorting algorithm is measured ONLY based on the number of comparisons done during a sorting process</p>{FALSE}
+
+
+// question: 2  name: Simple Sort 2
+::Simple Sort 2::[html]<p>In any case of Bubble Sort, such as worst case, best case or average case, the number of swap between elements is different.</p>{TRUE}
+
+
+// question: 3  name: Simple Sort 3
+::Simple Sort 3::[html]<p>Selection sort, bubble sort, and insertion sort are all O(n) algorithm for best case.</p>{FALSE}
+
+

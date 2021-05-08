@@ -1,0 +1,19 @@
+[4/05/2021 2:46:07 PM] [info] instantiating restore controller 5a9c7539e0071d8bbc37fce1f3593457
+[4/05/2021 2:46:07 PM] [debug] setting controller status to 100
+[4/05/2021 2:46:07 PM] [debug] loading backup info
+[4/05/2021 2:46:07 PM] [debug] loading controller plan
+[4/05/2021 2:46:07 PM] [debug] setting controller status to 300
+[4/05/2021 2:46:07 PM] [info] checking plan security
+[4/05/2021 2:46:07 PM] [debug] setting controller status to 600
+[4/05/2021 2:46:07 PM] [debug] saving controller to db
+[4/05/2021 2:46:07 PM] [debug] calculating controller checksum a52e1500a2ffa39f91f97f100a52b664
+[4/05/2021 2:46:07 PM] [debug] loading controller from db
+[4/05/2021 2:46:07 PM] [debug] setting controller status to 700
+[4/05/2021 2:46:07 PM] [debug] saving controller to db
+[4/05/2021 2:46:07 PM] [debug] calculating controller checksum c2f5690467be48c62a0a38a251ede4c6
+[4/05/2021 2:46:07 PM] [debug] loading controller from db
+[4/05/2021 2:46:07 PM] [debug] notifying plan about excluded activities by type
+[4/05/2021 2:46:07 PM] [debug] setting controller status to 800
+[4/05/2021 2:46:07 PM] [debug] processing file aliases queue
+[4/05/2021 2:46:08 PM] [debug] setting controller status to 1000
+[4/05/2021 2:46:08 PM] [debug] saving controller to db

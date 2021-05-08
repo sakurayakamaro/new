@@ -1,0 +1,19 @@
+[24/09/1442 09:34:50 م] [info] instantiating restore controller db692a8f9d6a4e938556db7b840107c8
+[24/09/1442 09:34:50 م] [debug] setting controller status to 100
+[24/09/1442 09:34:50 م] [debug] loading backup info
+[24/09/1442 09:34:50 م] [debug] loading controller plan
+[24/09/1442 09:34:50 م] [debug] setting controller status to 300
+[24/09/1442 09:34:50 م] [info] checking plan security
+[24/09/1442 09:34:50 م] [debug] setting controller status to 600
+[24/09/1442 09:34:50 م] [debug] saving controller to db
+[24/09/1442 09:34:50 م] [debug] calculating controller checksum ef8c9df3c94611eccf5b0d40606e142d
+[24/09/1442 09:34:50 م] [debug] loading controller from db
+[24/09/1442 09:34:50 م] [debug] setting controller status to 700
+[24/09/1442 09:34:50 م] [debug] saving controller to db
+[24/09/1442 09:34:50 م] [debug] calculating controller checksum 7df2cf2ec9504134e92e71579696419d
+[24/09/1442 09:34:50 م] [debug] loading controller from db
+[24/09/1442 09:34:50 م] [debug] notifying plan about excluded activities by type
+[24/09/1442 09:34:50 م] [debug] setting controller status to 800
+[24/09/1442 09:34:51 م] [debug] processing file aliases queue
+[24/09/1442 09:34:51 م] [debug] setting controller status to 1000
+[24/09/1442 09:34:51 م] [debug] saving controller to db
